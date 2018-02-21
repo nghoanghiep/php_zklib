@@ -5,4 +5,4 @@ Attendance Machine Library for PHP with a connection to the network using the UD
 Đọc thông tin chấm công từ máy chấm công - Tested trên máy Ronald Jack 
 
 
-[](http://i.imgur.com/2tqfhMO.png?1)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9TGMQHZ4STLQL)
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9TGMQHZ4STLQL">![Donate](http://i.imgur.com/2tqfhMO.png?1)</a>
