@@ -1,6 +1,6 @@
-# PHP ZKLib #
+# Attendance Machine Connector PHP ZKLib - Ronald Jack #
 
-Attendance Machine Library for PHP with a connection to the network using the UDP protocol and port 4370
+Attendance Machine Library for PHP with a connection to the network using the UDP protocol and port 4370 - Tested on Ronald Jack 
 
 Đọc thông tin chấm công từ máy chấm công - Tested trên máy Ronald Jack 
 
